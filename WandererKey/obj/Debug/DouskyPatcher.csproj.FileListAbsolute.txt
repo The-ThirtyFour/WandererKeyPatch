@@ -1,0 +1,2 @@
+C:\Users\Cries of the Sky\Documents\P\DouskyPatcher\DouskyPatcher\obj\Debug\DouskyPatcher.csproj.AssemblyReference.cache
+C:\Users\Cries of the Sky\Documents\P\DouskyPatcher\DouskyPatcher\obj\Debug\DouskyPatcher.csproj.CoreCompileInputs.cache
